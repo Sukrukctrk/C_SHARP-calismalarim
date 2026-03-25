@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/Character_idle0.png","C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/bin/Windows/Character_idle0.xnb","TextureProcessor","Texture2DContent",1111,2133,0,0849199
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/cimen.png","C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/bin/Windows/cimen.xnb","TextureProcessor","Texture2DContent",35445,2342997,0,0704628
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/tas.png","C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project4/Project4/Content/bin/Windows/tas.xnb","TextureProcessor","Texture2DContent",10025,19685,0,0023535

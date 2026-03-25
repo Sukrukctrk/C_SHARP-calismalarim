@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\bin\Debug\net8.0\Desr15.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\bin\Debug\net8.0\Desr15.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\bin\Debug\net8.0\Desr15.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\bin\Debug\net8.0\Desr15.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\bin\Debug\net8.0\Desr15.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\refint\Desr15.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\Desr15.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Desr15\obj\Debug\net8.0\ref\Desr15.dll

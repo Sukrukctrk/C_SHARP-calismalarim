@@ -1,0 +1,14 @@
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\bin\Debug\net8.0\Ders21.exe
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\bin\Debug\net8.0\Ders21.deps.json
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\bin\Debug\net8.0\Ders21.runtimeconfig.json
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\bin\Debug\net8.0\Ders21.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\bin\Debug\net8.0\Ders21.pdb
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.AssemblyInfoInputs.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.AssemblyInfo.cs
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.csproj.CoreCompileInputs.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\refint\Ders21.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.pdb
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\Ders21.genruntimeconfig.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders21\obj\Debug\net8.0\ref\Ders21.dll

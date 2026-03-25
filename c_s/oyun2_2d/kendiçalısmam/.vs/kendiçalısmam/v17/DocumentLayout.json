@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|solutionrelative:kendi\u00E7al\u0131smam\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|solutionrelative:kendi\u00E7al\u0131smam\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|solutionrelative:kendi\u00E7al\u0131smam\\hareket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3760FEE-38DC-4421-9F98-01F56B85372D}|kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam.csproj|solutionrelative:kendi\u00E7al\u0131smam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Program.cs",
+              "RelativeDocumentMoniker": "kendi\u00E7al\u0131smam\\Program.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Program.cs",
+              "RelativeToolTip": "kendi\u00E7al\u0131smam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:06:29.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hareket.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Hareket.cs",
+              "RelativeDocumentMoniker": "kendi\u00E7al\u0131smam\\Hareket.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Hareket.cs",
+              "RelativeToolTip": "kendi\u00E7al\u0131smam\\Hareket.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:06:22.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Game1.cs",
+              "RelativeDocumentMoniker": "kendi\u00E7al\u0131smam\\Game1.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\Game1.cs",
+              "RelativeToolTip": "kendi\u00E7al\u0131smam\\Game1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:06:02.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\app.manifest",
+              "RelativeDocumentMoniker": "kendi\u00E7al\u0131smam\\app.manifest",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2_2d\\kendi\u00E7al\u0131smam\\kendi\u00E7al\u0131smam\\app.manifest",
+              "RelativeToolTip": "kendi\u00E7al\u0131smam\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-07-17T15:02:57.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

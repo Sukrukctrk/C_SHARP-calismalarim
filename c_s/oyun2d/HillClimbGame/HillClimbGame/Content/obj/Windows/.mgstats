@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/araç.jpg","C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/bin/Windows/araç.xnb","TextureProcessor","Texture2DContent",61281,2624085,0,195727
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/coin.jpg","C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/bin/Windows/coin.xnb","TextureProcessor","Texture2DContent",25612,3841685,0,0793563
+"C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/zemin.png","C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2d/HillClimbGame/HillClimbGame/Content/bin/Windows/zemin.xnb","TextureProcessor","Texture2DContent",839089,5760085,0,1707816

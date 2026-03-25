@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders16_dizi_methode/1.0.0": {
+        "runtime": {
+          "Ders16_dizi_methode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders16_dizi_methode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

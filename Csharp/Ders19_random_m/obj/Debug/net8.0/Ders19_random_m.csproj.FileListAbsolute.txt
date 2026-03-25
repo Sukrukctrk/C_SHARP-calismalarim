@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\bin\Debug\net8.0\Ders19_random_m.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\bin\Debug\net8.0\Ders19_random_m.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\bin\Debug\net8.0\Ders19_random_m.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\bin\Debug\net8.0\Ders19_random_m.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\bin\Debug\net8.0\Ders19_random_m.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\refint\Ders19_random_m.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\Ders19_random_m.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders19_random_m\obj\Debug\net8.0\ref\Ders19_random_m.dll

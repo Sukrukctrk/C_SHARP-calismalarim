@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\bin\Debug\net8.0\Ders13_Data_time.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\bin\Debug\net8.0\Ders13_Data_time.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\bin\Debug\net8.0\Ders13_Data_time.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\bin\Debug\net8.0\Ders13_Data_time.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\bin\Debug\net8.0\Ders13_Data_time.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\refint\Ders13_Data_time.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\Ders13_Data_time.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders13_Data_time\obj\Debug\net8.0\ref\Ders13_Data_time.dll

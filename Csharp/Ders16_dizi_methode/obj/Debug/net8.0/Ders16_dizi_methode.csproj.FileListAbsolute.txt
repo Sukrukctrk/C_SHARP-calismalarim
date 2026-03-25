@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\bin\Debug\net8.0\Ders16_dizi_methode.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\bin\Debug\net8.0\Ders16_dizi_methode.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\bin\Debug\net8.0\Ders16_dizi_methode.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\bin\Debug\net8.0\Ders16_dizi_methode.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\bin\Debug\net8.0\Ders16_dizi_methode.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\refint\Ders16_dizi_methode.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\Ders16_dizi_methode.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders16_dizi_methode\obj\Debug\net8.0\ref\Ders16_dizi_methode.dll

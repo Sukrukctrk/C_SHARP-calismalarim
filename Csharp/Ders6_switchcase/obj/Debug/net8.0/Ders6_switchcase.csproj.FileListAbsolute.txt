@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\bin\Debug\net8.0\Ders6_switchcase.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\bin\Debug\net8.0\Ders6_switchcase.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\bin\Debug\net8.0\Ders6_switchcase.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\bin\Debug\net8.0\Ders6_switchcase.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\bin\Debug\net8.0\Ders6_switchcase.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\refint\Ders6_switchcase.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\Ders6_switchcase.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders6_switchcase\obj\Debug\net8.0\ref\Ders6_switchcase.dll

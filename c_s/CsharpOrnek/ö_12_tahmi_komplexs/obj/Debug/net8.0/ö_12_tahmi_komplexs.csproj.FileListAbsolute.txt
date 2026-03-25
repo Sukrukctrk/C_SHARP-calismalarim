@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\bin\Debug\net8.0\ö_12_tahmi_komplexs.exe
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\bin\Debug\net8.0\ö_12_tahmi_komplexs.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\bin\Debug\net8.0\ö_12_tahmi_komplexs.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\bin\Debug\net8.0\ö_12_tahmi_komplexs.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\bin\Debug\net8.0\ö_12_tahmi_komplexs.pdb
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\refint\ö_12_tahmi_komplexs.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.pdb
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ö_12_tahmi_komplexs.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_12_tahmi_komplexs\obj\Debug\net8.0\ref\ö_12_tahmi_komplexs.dll

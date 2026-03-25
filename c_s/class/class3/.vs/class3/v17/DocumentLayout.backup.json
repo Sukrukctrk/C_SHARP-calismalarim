@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|solutionrelative:class3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\memur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|solutionrelative:class3\\memur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\akademisyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|solutionrelative:class3\\akademisyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B7741E-4A53-4C6F-AAFA-D1DED0ACBC34}|class3\\class3.csproj|solutionrelative:class3\\calisan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Memur.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\Memur.cs",
+              "RelativeDocumentMoniker": "class3\\Memur.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\Memur.cs",
+              "RelativeToolTip": "class3\\Memur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:07:31.682Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "akademisyen.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\akademisyen.cs",
+              "RelativeDocumentMoniker": "class3\\akademisyen.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\akademisyen.cs",
+              "RelativeToolTip": "class3\\akademisyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:47:23.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calisan.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\calisan.cs",
+              "RelativeDocumentMoniker": "class3\\calisan.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\calisan.cs",
+              "RelativeToolTip": "class3\\calisan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:47:08.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\Program.cs",
+              "RelativeDocumentMoniker": "class3\\Program.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\class\\class3\\class3\\Program.cs",
+              "RelativeToolTip": "class3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T14:46:29.998Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

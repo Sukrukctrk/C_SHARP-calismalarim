@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\bin\Debug\net8.0\ö_11.exe
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\bin\Debug\net8.0\ö_11.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\bin\Debug\net8.0\ö_11.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\bin\Debug\net8.0\ö_11.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\bin\Debug\net8.0\ö_11.pdb
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\refint\ö_11.dll
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.pdb
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ö_11.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\CsharpOrnek\ö_11\obj\Debug\net8.0\ref\ö_11.dll

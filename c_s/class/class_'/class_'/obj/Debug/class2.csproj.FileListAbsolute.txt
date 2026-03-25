@@ -1,0 +1,8 @@
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\bin\Debug\class_'.exe.config
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\bin\Debug\class_'.exe
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\bin\Debug\class_'.pdb
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\obj\Debug\class2.csproj.AssemblyReference.cache
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\obj\Debug\class2.csproj.CoreCompileInputs.cache
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\obj\Debug\class_'.exe
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\obj\Debug\class_'.pdb
+C:\Users\kocat\OneDrive\Masaüstü\c_s\class\class_'\class_'\obj\Debug\class_'.exe.config

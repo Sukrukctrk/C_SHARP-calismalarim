@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\terrain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\hillclimbgame\\hillclimbgame\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A128CDE-481D-4E09-92AE-4E89F2838C92}|HillClimbGame\\HillClimbGame.csproj|solutionrelative:hillclimbgame\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Program.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Program.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Program.cs",
+              "RelativeToolTip": "HillClimbGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T12:05:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Game1.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Game1.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Game1.cs",
+              "RelativeToolTip": "HillClimbGame\\Game1.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwGwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:32:10.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Terrain.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Terrain.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Terrain.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Terrain.cs",
+              "RelativeToolTip": "HillClimbGame\\Terrain.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:26:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Coin.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Coin.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Coin.cs",
+              "RelativeToolTip": "HillClimbGame\\Coin.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:29:52.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Camera.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Camera.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Camera.cs",
+              "RelativeToolTip": "HillClimbGame\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:26:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Player.cs",
+              "RelativeDocumentMoniker": "HillClimbGame\\Player.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\HillClimbGame\\HillClimbGame\\Player.cs",
+              "RelativeToolTip": "HillClimbGame\\Player.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:25:44.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgP4MfaymwA=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\flash\\c_s\\oyun2d\\oyun1\\oyun1\\oyun1.iOS\\oyun1.iOS.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform belirtmiş olsalar bile, bir veya daha fazla hedef çerçeve için platform sürümü yok: net8.0-ios",
+      "projectPath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\flash\\c_s\\oyun2d\\oyun1\\oyun1\\oyun1.iOS\\oyun1.iOS.csproj",
+      "filePath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\flash\\c_s\\oyun2d\\oyun1\\oyun1\\oyun1.iOS\\oyun1.iOS.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

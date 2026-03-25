@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders7_devam/1.0.0": {
+        "runtime": {
+          "Ders7_devam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders7_devam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

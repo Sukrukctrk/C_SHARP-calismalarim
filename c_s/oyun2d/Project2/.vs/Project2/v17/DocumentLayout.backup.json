@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{575185DC-6D81-4A92-890A-575DB437DFA8}|Project2\\Project2.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\project2\\project2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{575185DC-6D81-4A92-890A-575DB437DFA8}|Project2\\Project2.csproj|solutionrelative:project2\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{575185DC-6D81-4A92-890A-575DB437DFA8}|Project2\\Project2.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\oyun2d\\project2\\project2\\content\\box.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{575185DC-6D81-4A92-890A-575DB437DFA8}|Project2\\Project2.csproj|solutionrelative:project2\\content\\box.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\Project2\\Project2\\Game1.cs",
+              "RelativeDocumentMoniker": "Project2\\Game1.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\Project2\\Project2\\Game1.cs",
+              "RelativeToolTip": "Project2\\Game1.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T13:27:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Box.png - PNG [50x50, 24 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\Project2\\Project2\\Content\\Box.png",
+              "RelativeDocumentMoniker": "Project2\\Content\\Box.png",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\oyun2d\\Project2\\Project2\\Content\\Box.png - PNG [50x50, 24 bit, PNG]",
+              "RelativeToolTip": "Project2\\Content\\Box.png - PNG [50x50, 24 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-12T13:26:49.095Z",
+              "EditorCaption": " - PNG [50x50, 24 bit, PNG]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

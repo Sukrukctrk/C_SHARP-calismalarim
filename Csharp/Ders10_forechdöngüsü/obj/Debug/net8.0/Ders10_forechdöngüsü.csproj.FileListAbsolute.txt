@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\bin\Debug\net8.0\Ders10_forechdöngüsü.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\bin\Debug\net8.0\Ders10_forechdöngüsü.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\bin\Debug\net8.0\Ders10_forechdöngüsü.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\bin\Debug\net8.0\Ders10_forechdöngüsü.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\bin\Debug\net8.0\Ders10_forechdöngüsü.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\refint\Ders10_forechdöngüsü.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\Ders10_forechdöngüsü.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders10_forechdöngüsü\obj\Debug\net8.0\ref\Ders10_forechdöngüsü.dll

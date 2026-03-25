@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vq9dvueBMg=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\c_s\\oyun2d\\Project1\\Project1\\Project1.Android\\Project1.Android.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform belirtmiş olsalar bile, bir veya daha fazla hedef çerçeve için platform sürümü yok: net8.0-android",
+      "projectPath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\c_s\\oyun2d\\Project1\\Project1\\Project1.Android\\Project1.Android.csproj",
+      "filePath": "C:\\Users\\kocat\\OneDrive\\Masaüstü\\c_s\\oyun2d\\Project1\\Project1\\Project1.Android\\Project1.Android.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

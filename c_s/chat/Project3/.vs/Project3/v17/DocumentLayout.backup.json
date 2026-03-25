@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\chat\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5342A-2504-4FEF-A3F4-20AA9B4222F4}|Project3\\Project3.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\chat\\project3\\project3\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B5342A-2504-4FEF-A3F4-20AA9B4222F4}|Project3\\Project3.csproj|solutionrelative:project3\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B5342A-2504-4FEF-A3F4-20AA9B4222F4}|Project3\\Project3.csproj|c:\\users\\kocat\\onedrive\\masa\u00FCst\u00FC\\c_s\\chat\\project3\\project3\\content\\character_idle0.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{86B5342A-2504-4FEF-A3F4-20AA9B4222F4}|Project3\\Project3.csproj|solutionrelative:project3\\content\\character_idle0.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character_idle0.png - PNG [16x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\chat\\Project3\\Project3\\Content\\Character_idle0.png",
+              "RelativeDocumentMoniker": "Project3\\Content\\Character_idle0.png",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\chat\\Project3\\Project3\\Content\\Character_idle0.png - PNG [16x32, 32 bit, PNG]",
+              "RelativeToolTip": "Project3\\Content\\Character_idle0.png - PNG [16x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-07-21T11:35:30.547Z",
+              "EditorCaption": " - PNG [16x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\chat\\Project3\\Project3\\Game1.cs",
+              "RelativeDocumentMoniker": "Project3\\Game1.cs",
+              "ToolTip": "C:\\Users\\kocat\\OneDrive\\Masa\u00FCst\u00FC\\c_s\\chat\\Project3\\Project3\\Game1.cs",
+              "RelativeToolTip": "Project3\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:35:20.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

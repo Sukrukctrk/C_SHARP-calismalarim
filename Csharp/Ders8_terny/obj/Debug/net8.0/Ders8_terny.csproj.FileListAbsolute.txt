@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\bin\Debug\net8.0\Ders8_terny.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\bin\Debug\net8.0\Ders8_terny.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\bin\Debug\net8.0\Ders8_terny.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\bin\Debug\net8.0\Ders8_terny.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\bin\Debug\net8.0\Ders8_terny.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\refint\Ders8_terny.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\Ders8_terny.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders8_terny\obj\Debug\net8.0\ref\Ders8_terny.dll

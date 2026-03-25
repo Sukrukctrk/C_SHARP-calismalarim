@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\bin\Debug\net8.0\Ders17_ö.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\bin\Debug\net8.0\Ders17_ö.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\bin\Debug\net8.0\Ders17_ö.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\bin\Debug\net8.0\Ders17_ö.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\bin\Debug\net8.0\Ders17_ö.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\refint\Ders17_ö.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\Ders17_ö.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders17_ö\obj\Debug\net8.0\ref\Ders17_ö.dll

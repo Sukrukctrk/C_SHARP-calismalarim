@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\bin\Debug\net8.0\ders3_degisken.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\bin\Debug\net8.0\ders3_degisken.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\bin\Debug\net8.0\ders3_degisken.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\bin\Debug\net8.0\ders3_degisken.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\bin\Debug\net8.0\ders3_degisken.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\refint\ders3_degisken.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ders3_degisken.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\ders3_degisken\obj\Debug\net8.0\ref\ders3_degisken.dll

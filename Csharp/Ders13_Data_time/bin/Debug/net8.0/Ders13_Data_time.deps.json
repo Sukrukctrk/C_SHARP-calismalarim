@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ders13_Data_time/1.0.0": {
+        "runtime": {
+          "Ders13_Data_time.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ders13_Data_time/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

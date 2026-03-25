@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/cimen.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/tas.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/tass.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/WalkingBackward1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/WalkingFront0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/WalkingLeft0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/chat/Project7/Project7/Content/WalkingRight0.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

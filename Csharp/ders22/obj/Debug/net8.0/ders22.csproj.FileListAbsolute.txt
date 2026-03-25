@@ -1,0 +1,14 @@
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\bin\Debug\net8.0\ders22.exe
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\bin\Debug\net8.0\ders22.deps.json
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\bin\Debug\net8.0\ders22.runtimeconfig.json
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\bin\Debug\net8.0\ders22.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\bin\Debug\net8.0\ders22.pdb
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.AssemblyInfoInputs.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.AssemblyInfo.cs
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.csproj.CoreCompileInputs.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\refint\ders22.dll
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.pdb
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ders22.genruntimeconfig.cache
+C:\Users\kocat\OneDrive\Masaüstü\Csharp\ders22\obj\Debug\net8.0\ref\ders22.dll

@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\bin\Debug\net8.0\Ders7_devam.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\bin\Debug\net8.0\Ders7_devam.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\bin\Debug\net8.0\Ders7_devam.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\bin\Debug\net8.0\Ders7_devam.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\bin\Debug\net8.0\Ders7_devam.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\refint\Ders7_devam.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\Ders7_devam.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders7_devam\obj\Debug\net8.0\ref\Ders7_devam.dll

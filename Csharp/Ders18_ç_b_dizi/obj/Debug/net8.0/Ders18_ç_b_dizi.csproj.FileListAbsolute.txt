@@ -1,0 +1,14 @@
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\bin\Debug\net8.0\Ders18_ç_b_dizi.exe
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\bin\Debug\net8.0\Ders18_ç_b_dizi.deps.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\bin\Debug\net8.0\Ders18_ç_b_dizi.runtimeconfig.json
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\bin\Debug\net8.0\Ders18_ç_b_dizi.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\bin\Debug\net8.0\Ders18_ç_b_dizi.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.AssemblyInfoInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.AssemblyInfo.cs
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.csproj.CoreCompileInputs.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\refint\Ders18_ç_b_dizi.dll
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.pdb
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\Ders18_ç_b_dizi.genruntimeconfig.cache
+c:\Users\kocat\OneDrive\Masaüstü\Csharp\Ders18_ç_b_dizi\obj\Debug\net8.0\ref\Ders18_ç_b_dizi.dll

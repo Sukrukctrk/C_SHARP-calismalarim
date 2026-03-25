@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/BackIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/Character_idle0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/Character_idle1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/Character_idle2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/LeftIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/Idle/RightIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingBackward/WalkingBackward0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingBackward/WalkingBackward1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingBackward/WalkingBackward2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingBackward/WalkingBackward3.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingForward/WalkingFront0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingForward/WalkingFront1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingForward/WalkingFront2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingForward/WalkingFront3.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingLeft/WalkingLeft0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingLeft/WalkingLeft1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingLeft/WalkingLeft2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingRight/WalkingRight0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingRight/WalkingRight1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/../../../../../Character Sprite/WalkingRight/WalkingRight2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/BackIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/Character_idle0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/Character_idle1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/Character_idle2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/LeftIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/RightIdle.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingBackward0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingBackward1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingBackward2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingBackward3.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingFront0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingFront1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingFront2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingFront3.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingLeft0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingLeft1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingLeft2.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingRight0.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingRight1.png</File>
+    <File>C:/Users/kocat/OneDrive/Masaüstü/c_s/oyun2_2d/SpriteYuruyusOyunu/SpriteYuruyusOyunu/Content/WalkingRight2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
